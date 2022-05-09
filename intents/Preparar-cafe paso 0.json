@@ -1,0 +1,99 @@
+{
+  "id": "580f99d2-29a8-4770-bb18-2a6b3adf6d42",
+  "name": "Preparar-cafe paso 0",
+  "auto": true,
+  "contexts": [
+    "prepararcafe0"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe1",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a11b0922-760a-4928-864a-424fc33bd1ea",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Para preparar café debes estar en la cocina, si ya lo estas confírmalo."
+            },
+            {
+              "lang": "es",
+              "value": "confirma que estas en la cocina , puedes decir frases como si estoy"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cd86147b-7cf1-425a-a29f-ab67ab577396",
+          "name": "lugares",
+          "required": true,
+          "dataType": "@Lugares",
+          "value": "$lugares",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Para preparar café debes estar en la cocina, si ya lo estas confírmalo."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8525e419-abd2-4e1a-b47b-bcb32016b2a8",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Primero reunamos los utensilios. Necesitaremos una olleta, un pocillo, una cuchara y un trapo de cocina."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

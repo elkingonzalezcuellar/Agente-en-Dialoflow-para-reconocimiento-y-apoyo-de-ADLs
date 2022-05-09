@@ -1,0 +1,81 @@
+{
+  "id": "617479b5-e4c6-457c-a2ef-4a36a488ab97",
+  "name": "Preparar-cafe paso 1",
+  "auto": true,
+  "contexts": [
+    "prepararcafe1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe2",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "45471a84-f3f1-4d3d-83e1-6e9248984d2b",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Confirma que ya tienes todos los utensilios. Te los repito : una olleta , un pocillo , una cuchara y un trapo de cocina."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f5bd9437-fd32-4e19-8566-2f8df9084e1a",
+          "name": "Objetos",
+          "required": true,
+          "dataType": "@Objetos",
+          "value": "$Objetos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Recuerda que son  cuatro utensilios cuchara , pocillo , olleta y trapo . Cuando los tengas todos puedes decir ya tengo los utensilios"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Muy bien! Ahora reunamos los ingredientes. Necesitaremos   café y azúcar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

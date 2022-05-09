@@ -1,0 +1,96 @@
+[
+  {
+    "id": "4ccc127f-da06-4f48-997a-ec070a2f54c5",
+    "data": [
+      {
+        "text": "hablar con ",
+        "userDefined": false
+      },
+      {
+        "text": "doctora",
+        "meta": "@Saludos",
+        "alias": "Saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8055f366-bfaa-4fe1-ba04-86bba2cb64cf",
+    "data": [
+      {
+        "text": "doctora",
+        "meta": "@Saludos",
+        "alias": "Saludos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6d2e7212-0abc-4e12-8a11-9aaa76dd3029",
+    "data": [
+      {
+        "text": "buenas noches",
+        "meta": "@Saludos",
+        "alias": "Saludos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e16ec807-e51a-46a7-aa9e-461f8ffdbfa5",
+    "data": [
+      {
+        "text": "buenas tardes",
+        "meta": "@Saludos",
+        "alias": "Saludos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aba7a747-1ea1-4d38-b1b7-de0ae498f665",
+    "data": [
+      {
+        "text": "buenos dias",
+        "meta": "@Saludos",
+        "alias": "Saludos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2f1e4209-8581-4486-aba5-b5d12efe07bf",
+    "data": [
+      {
+        "text": "hola",
+        "meta": "@Saludos",
+        "alias": "Saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "6b9991b2-ed75-40c0-9066-a3ad5b496437",
+  "name": "Verbos",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

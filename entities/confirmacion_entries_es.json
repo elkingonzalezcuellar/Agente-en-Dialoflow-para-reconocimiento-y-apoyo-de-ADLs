@@ -1,0 +1,23 @@
+[
+  {
+    "value": "si",
+    "synonyms": [
+      "si",
+      "sí"
+    ]
+  },
+  {
+    "value": "ya",
+    "synonyms": [
+      "Ya",
+      "ya lo hice",
+      "ya lo tengo"
+    ]
+  },
+  {
+    "value": "listo",
+    "synonyms": [
+      "listo"
+    ]
+  }
+]

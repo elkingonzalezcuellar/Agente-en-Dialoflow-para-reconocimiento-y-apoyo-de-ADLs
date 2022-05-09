@@ -1,0 +1,152 @@
+[
+  {
+    "id": "492f3cb6-e9b3-4612-9519-f0df43e671b5",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta",
+        "meta": "@Verbos",
+        "alias": "Verbos",
+        "userDefined": true
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "olleta",
+        "meta": "@Objetos",
+        "alias": "Objetos",
+        "userDefined": true
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "estufa",
+        "meta": "@Objetos",
+        "alias": "Objetos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "53831e65-5f4c-4fc2-b5f4-2b4dafee303c",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "puse",
+        "meta": "@Verbos",
+        "alias": "Verbos",
+        "userDefined": true
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "olleta",
+        "meta": "@Objetos",
+        "alias": "Objetos",
+        "userDefined": true
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "estufa",
+        "meta": "@Objetos",
+        "alias": "Objetos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5651712e-9ac7-4ec5-9b50-e01803d9bfb9",
+    "data": [
+      {
+        "text": "siguiente",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3848fef7-6b59-4053-ab51-1414b13b19af",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ae06c17f-32b3-4c40-9159-4a0dc20b6be0",
+    "data": [
+      {
+        "text": "listo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "80209e08-8066-4c34-9133-ce158d21e70b",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

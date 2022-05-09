@@ -1,0 +1,46 @@
+[
+  {
+    "id": "26e79d8b-b2a8-42da-b48b-45f6966fcd10",
+    "data": [
+      {
+        "text": "Ver ",
+        "userDefined": false
+      },
+      {
+        "text": "Televisión",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "826a4f57-6df5-454b-ac45-285d749c7416",
+    "data": [
+      {
+        "text": "Quiero",
+        "meta": "@Verbos",
+        "alias": "verbos",
+        "userDefined": false
+      },
+      {
+        "text": " ver ",
+        "userDefined": false
+      },
+      {
+        "text": "Televisión",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "id": "5467b84c-ed50-4f32-bb0e-d572d93ada31",
+    "data": [
+      {
+        "text": "ya se cumplio el tiempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fcf30ca6-0408-4998-8d15-429f79040b97",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " se ",
+        "userDefined": false
+      },
+      {
+        "text": "cumplió",
+        "meta": "@Verbos",
+        "alias": "verbos",
+        "userDefined": true
+      },
+      {
+        "text": " el tiempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "31fd9dd9-b13d-41c8-a0d3-4ef47d199289",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "café",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "esta",
+        "meta": "@Verbos",
+        "alias": "verbos",
+        "userDefined": false
+      },
+      {
+        "text": " reposado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d2d0c44c-03ab-4dab-a50d-70cdc3d3d68d",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "paso",
+        "meta": "@Verbos",
+        "alias": "verbos",
+        "userDefined": true
+      },
+      {
+        "text": " el tiempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0b8afaae-3b46-4c54-ad34-f4576d91c055",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "36081853-3019-41f9-ae01-ca5666091c5b",
+    "data": [
+      {
+        "text": "listo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9f4bdeed-aee0-4bd5-bd87-1cc3de0a63e7",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

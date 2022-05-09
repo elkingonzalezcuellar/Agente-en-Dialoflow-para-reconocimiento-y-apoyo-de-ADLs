@@ -1,0 +1,222 @@
+[
+  {
+    "id": "93aa8547-64c3-40c3-b470-a90a240a5450",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tengo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": true
+      },
+      {
+        "text": " los ",
+        "userDefined": false
+      },
+      {
+        "text": "ingredientes",
+        "meta": "@Alimentos",
+        "alias": "Alimentos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4084f592-6d37-4869-99d0-d54a3332473c",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tengo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "cafe",
+        "meta": "@Alimentos",
+        "alias": "Alimentos",
+        "userDefined": true
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "azucar",
+        "meta": "@Alimentos",
+        "alias": "Alimentos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3bd55f26-52e2-4e43-b681-3ed26c053267",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tengo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "café",
+        "meta": "@Alimentos",
+        "alias": "Alimentos",
+        "userDefined": true
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "azúcar",
+        "meta": "@Alimentos",
+        "alias": "Alimentos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4b35467a-fddc-4129-b04e-753eb97a8ea2",
+    "data": [
+      {
+        "text": "listo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ya tengo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": true
+      },
+      {
+        "text": " los ",
+        "userDefined": false
+      },
+      {
+        "text": "ingredientes",
+        "meta": "@Alimentos",
+        "alias": "Alimentos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "35e7db19-2dc7-4b8d-8e31-d4b25cbbba62",
+    "data": [
+      {
+        "text": "siguiente",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "40f27d3e-48e0-4573-9c6a-f0b667167b89",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dc7e4d46-ba22-4b67-9d18-04ead9f2887b",
+    "data": [
+      {
+        "text": "listo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2ff96735-3a09-48a1-8599-f9eacb154de4",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "value": "Comida",
+    "synonyms": [
+      "Comida"
+    ]
+  },
+  {
+    "value": "leche",
+    "synonyms": [
+      "leche"
+    ]
+  },
+  {
+    "value": "agua",
+    "synonyms": [
+      "agua"
+    ]
+  },
+  {
+    "value": "café",
+    "synonyms": [
+      "café",
+      "cafe"
+    ]
+  },
+  {
+    "value": "sal",
+    "synonyms": [
+      "sal"
+    ]
+  },
+  {
+    "value": "azucar",
+    "synonyms": [
+      "azucar",
+      "azúcar"
+    ]
+  },
+  {
+    "value": "huevos",
+    "synonyms": [
+      "huevos"
+    ]
+  },
+  {
+    "value": "pan",
+    "synonyms": [
+      "pan"
+    ]
+  },
+  {
+    "value": "frutas",
+    "synonyms": [
+      "manzana",
+      "fruta",
+      "pera",
+      "fresa",
+      "fresas"
+    ]
+  },
+  {
+    "value": "ingredientes",
+    "synonyms": [
+      "ingredientes"
+    ]
+  }
+]

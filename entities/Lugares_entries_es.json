@@ -1,0 +1,31 @@
+[
+  {
+    "value": "cocina",
+    "synonyms": [
+      "cocina",
+      "Cocina"
+    ]
+  },
+  {
+    "value": "habitación",
+    "synonyms": [
+      "habitacion",
+      "cuarto",
+      "alcoba",
+      "pieza"
+    ]
+  },
+  {
+    "value": "sala",
+    "synonyms": [
+      "Sala"
+    ]
+  },
+  {
+    "value": "comedor",
+    "synonyms": [
+      "Comedor",
+      "mesa"
+    ]
+  }
+]

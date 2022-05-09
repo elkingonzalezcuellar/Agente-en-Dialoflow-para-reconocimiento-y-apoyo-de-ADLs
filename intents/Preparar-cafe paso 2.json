@@ -1,0 +1,81 @@
+{
+  "id": "954e7b3d-be7d-4f79-9781-f624af29b6b2",
+  "name": "Preparar-cafe paso 2",
+  "auto": true,
+  "contexts": [
+    "prepararcafe2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe3",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "be0eb06a-96a7-4cf3-95e9-4bd1b176e8fb",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Confirma que ya tienes los ingredientes te los recuerdo :  café y azúcar. Puedes decir ya tengo los ingredientes."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "00b9ea31-2da3-4f94-b7f4-44616b294fdf",
+          "name": "Alimentos",
+          "required": true,
+          "dataType": "@Alimentos",
+          "value": "$Alimentos",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Confirma que ya tienes los ingredientes te los recuerdo :café y azúcar.Puedes decir ya tengo los ingredientes."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Perfecto! empecemos la preparación, agrega dos vasos de agua en la olleta."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

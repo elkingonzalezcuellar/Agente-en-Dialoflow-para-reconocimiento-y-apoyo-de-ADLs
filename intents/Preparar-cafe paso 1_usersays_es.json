@@ -1,0 +1,106 @@
+[
+  {
+    "id": "24fb7de1-391d-4a83-b760-03368c861889",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " los tengo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "db20107d-2dfe-4327-8fe0-fb1c949ea9b9",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " tengo los ",
+        "userDefined": false
+      },
+      {
+        "text": "utensilios",
+        "meta": "@Objetos",
+        "alias": "Objetos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "31d21f60-8989-4de6-b6eb-4a4596854532",
+    "data": [
+      {
+        "text": "siguiente",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "06bb631a-eae6-4aa1-8eb1-2d7ac953933b",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c3094efe-0823-4419-adfd-0f74f9cb2551",
+    "data": [
+      {
+        "text": "ya lo hice",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4efa538b-3d3e-4cf8-a4d1-2b5118574b34",
+    "data": [
+      {
+        "text": "listo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

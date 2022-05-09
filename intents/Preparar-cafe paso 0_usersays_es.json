@@ -1,0 +1,171 @@
+[
+  {
+    "id": "89a51bc9-e552-416b-9445-6ddec48ef621",
+    "data": [
+      {
+        "text": "siguiente",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5b88adb1-30c0-42f2-bd76-c62d011d780c",
+    "data": [
+      {
+        "text": "listo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " estoy ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cocina",
+        "meta": "@Lugares",
+        "alias": "lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6bd5b9df-b7f4-4bb0-8d56-f30d5900f65c",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5b62912e-2694-4d32-8d66-965db378fd3a",
+    "data": [
+      {
+        "text": "listo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3154c53f-aafb-4569-9d5d-86923e814c64",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " estoy ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "cocina",
+        "meta": "@Lugares",
+        "alias": "lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6fbb9355-730f-4703-aa0d-45a562ec1cfe",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aed078ba-5564-4518-aef3-87a97d54ba89",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " estoy ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "cocina",
+        "meta": "@Lugares",
+        "alias": "lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

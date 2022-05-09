@@ -1,0 +1,78 @@
+{
+  "id": "12556623-489d-4b78-a575-bcf105fd8555",
+  "name": "Preparar-cafe",
+  "auto": true,
+  "contexts": [
+    "prepararcafe"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe0",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6152720b-e8e8-41f9-9e8a-b87e13834c53",
+          "name": "alimentos",
+          "required": false,
+          "dataType": "@Alimentos",
+          "value": "$alimentos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "81087afb-a3b8-40eb-bc5a-864af4907e2c",
+          "name": "Verbos",
+          "required": false,
+          "dataType": "@Verbos",
+          "value": "$Verbos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Te diré paso por paso como preparar café. En cada paso puedes decir palabras como ya  o listo para continuar. ¿Estas listo ?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,100 @@
+{
+  "id": "43092c95-5fa0-4663-983f-fdb260663edb",
+  "name": "Preparar-cafe paso 4",
+  "auto": true,
+  "contexts": [
+    "prepararcafe4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe5",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5d3a47e7-8681-4cff-94d9-0cb9b2e31cc9",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Ya prendiste la estufa ?. si ya lo hiciste, di ya prendí la estufa"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f37604e8-88d9-4026-bd21-a0892c6489c1",
+          "name": "Verbos",
+          "required": true,
+          "dataType": "@Verbos",
+          "value": "$Verbos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Ya prendiste la estufa ?. si ya lo hiciste, di ya prendí la estufa"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "84074166-f482-4778-8fc6-1e32a625fb06",
+          "name": "Objetos",
+          "required": true,
+          "dataType": "@Objetos",
+          "value": "$Objetos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Ya prendiste la estufa ?. si ya lo hiciste, di ya prendí la estufa"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Coloca la olleta con agua en la estufa."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

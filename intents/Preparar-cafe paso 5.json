@@ -1,0 +1,100 @@
+{
+  "id": "8d398cb0-16f4-469c-ad23-3cc0b3435eb7",
+  "name": "Preparar-cafe paso 5",
+  "auto": true,
+  "contexts": [
+    "prepararcafe5"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe6",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "10ab3216-1cd0-48bd-93f5-8e79a428e370",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si ya pusiste la olleta en la estufa di : ya esta la olleta en la estufa"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "69a0450e-e4ce-4724-9b37-205b028ec39e",
+          "name": "Objetos",
+          "required": true,
+          "dataType": "@Objetos",
+          "value": "$Objetos",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si ya pusiste la olleta en la estufa di : ya esta la olleta en la estufa"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bdb5743c-3634-4e42-93ef-d8000ebbba0e",
+          "name": "Verbos",
+          "required": true,
+          "dataType": "@Verbos",
+          "value": "$Verbos",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si ya pusiste la olleta en la estufa di : ya esta la olleta en la estufa"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Deja calentar el agua por 5 minutos."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Nevera",
+    "synonyms": [
+      "Nevera",
+      "refrigerador"
+    ]
+  },
+  {
+    "value": "estufa",
+    "synonyms": [
+      "estufa",
+      "fogon"
+    ]
+  },
+  {
+    "value": "mesa",
+    "synonyms": [
+      "mesa",
+      "meson"
+    ]
+  },
+  {
+    "value": "gabinete",
+    "synonyms": [
+      "cajon",
+      "gabinete"
+    ]
+  },
+  {
+    "value": "pocillo",
+    "synonyms": [
+      "vaso",
+      "pocillo",
+      "taza",
+      "copa"
+    ]
+  },
+  {
+    "value": "cuchara",
+    "synonyms": [
+      "cuchara"
+    ]
+  },
+  {
+    "value": "tenedor",
+    "synonyms": [
+      "tenedor"
+    ]
+  },
+  {
+    "value": "olleta",
+    "synonyms": [
+      "olla",
+      "olleta"
+    ]
+  },
+  {
+    "value": "trapo",
+    "synonyms": [
+      "trapo",
+      "limpion"
+    ]
+  },
+  {
+    "value": "utensilios",
+    "synonyms": [
+      "utensilios",
+      "cuchara"
+    ]
+  }
+]

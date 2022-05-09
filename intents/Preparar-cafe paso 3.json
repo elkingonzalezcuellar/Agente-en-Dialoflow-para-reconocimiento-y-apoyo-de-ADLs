@@ -1,0 +1,100 @@
+{
+  "id": "1b8b5d8a-3fb4-4325-b5c1-116c7d299142",
+  "name": "Preparar-cafe paso 3",
+  "auto": true,
+  "contexts": [
+    "prepararcafe3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe4",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "271f67b9-798b-47a0-bb89-dc90756a2cf4",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Confirma que ya agregaste los dos vasos de agua en la olleta. Puedes decir ya tengo la olleta con agua"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8d699872-fa47-4f05-ace1-bd98050dc8d2",
+          "name": "Objetos",
+          "required": true,
+          "dataType": "@Objetos",
+          "value": "$Objetos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Confirma que ya agregaste los dos vasos de agua en la olleta. Puedes decir ya tengo la olleta con agua"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d1f07d46-d906-4eef-8732-6a628e5b3e23",
+          "name": "Alimentos",
+          "required": true,
+          "dataType": "@Alimentos",
+          "value": "$Alimentos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Confirma que ya agregaste los dos vasos de agua en la olleta. Puedes decir ya tengo la olleta con agua"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Prende la estufa!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "7c186e3b-65a1-4ee5-b9b3-851534f43cca",
+  "name": "Solicitar ayuda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3081111c-4951-4f2e-ac03-45c09406577b",
+          "name": "Solicitarayuda",
+          "required": false,
+          "dataType": "@Saludos",
+          "value": "$Solicitarayuda",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Me encanta ayudarte!\nPuedo indicarte como preparar un café, ver la televisión y hasta decirte que hora es. ¿Qué necesitas ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ac3dd9f5-0594-4430-9234-78febeaf5969",
+    "data": [
+      {
+        "text": "ayúdame",
+        "meta": "@Saludos",
+        "alias": "Solicitarayuda",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "01e0ea5b-b6c8-426b-b7d5-a06cbf9089fb",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "ayuda",
+        "meta": "@Saludos",
+        "alias": "Solicitarayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

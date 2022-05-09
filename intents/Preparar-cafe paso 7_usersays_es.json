@@ -1,0 +1,187 @@
+[
+  {
+    "id": "bb437385-672b-4b89-b4af-c6ed3698598b",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "puse",
+        "meta": "@Verbos",
+        "alias": "verbos",
+        "userDefined": false
+      },
+      {
+        "text": " los ",
+        "userDefined": false
+      },
+      {
+        "text": "ingredientes",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a411b6d0-90f0-4437-b909-af276f5cfde9",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "puse",
+        "meta": "@Verbos",
+        "alias": "verbos",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "cafe",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "azucar",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "93f0893c-c91a-4799-984f-2178525a0173",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "agregue",
+        "meta": "@Verbos",
+        "alias": "verbos",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "cafe",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "azucar",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "982de57a-c3bb-4bd2-b4f4-e0c9e93980d2",
+    "data": [
+      {
+        "text": "siguiente",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "98abdfa9-ba03-4794-860c-1d240de0e635",
+    "data": [
+      {
+        "text": "ya",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "76224c09-d5e2-4076-9dd0-8562bc6dfb37",
+    "data": [
+      {
+        "text": "listo",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8528051c-0c89-4283-afce-38510eb35f9a",
+    "data": [
+      {
+        "text": "si",
+        "meta": "@confirmacion",
+        "alias": "confirmacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

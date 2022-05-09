@@ -1,0 +1,100 @@
+{
+  "id": "31bfc779-3a45-4b10-81be-234c4470615d",
+  "name": "Preparar-cafe paso 6",
+  "auto": true,
+  "contexts": [
+    "prepararcafe6"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe7",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "36710b06-82b2-441a-b33d-95ce2cfd4dd5",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si el agua ya esta caliente  di : el agua ya esta caliente"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "638ffee2-73c6-4ca9-974d-edfd34baf1ac",
+          "name": "verbos",
+          "required": true,
+          "dataType": "@Verbos",
+          "value": "$verbos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si el agua ya esta caliente  di : el agua ya esta caliente"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "903df05a-b8ec-4fde-9715-9dfaeeda6011",
+          "name": "alimentos",
+          "required": true,
+          "dataType": "@Alimentos",
+          "value": "$alimentos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si el agua ya esta caliente  di : el agua ya esta caliente"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Muy bien! apaga la estufa y agrega dos cucharas de café y una de azúcar en la olleta"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

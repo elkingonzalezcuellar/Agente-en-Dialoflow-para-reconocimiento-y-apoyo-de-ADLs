@@ -1,0 +1,95 @@
+{
+  "id": "8bfae2de-af0d-4cfc-b192-0cfaf4b98e11",
+  "name": "Preparar-cafe paso 8",
+  "auto": true,
+  "contexts": [
+    "prepararcafe8"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe9",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "471bed45-06f0-4241-86e1-49632cffbd69",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Recuerda que debes esperar dos minutos. si ya se cumplieron di : ya paso el tiempo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9f8f353f-5c66-4e5c-8aac-6a326aa570a6",
+          "name": "alimentos",
+          "required": false,
+          "dataType": "@Alimentos",
+          "value": "$alimentos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "82ddd99c-bd9c-4440-8eb9-069b1a21be19",
+          "name": "verbos",
+          "required": true,
+          "dataType": "@Verbos",
+          "value": "$verbos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Recuerda que debes esperar dos minutos. si ya se cumplieron di : ya paso el tiempo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Muy bien! toma la olleta con el trapo y sirve el café en el pocillo."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

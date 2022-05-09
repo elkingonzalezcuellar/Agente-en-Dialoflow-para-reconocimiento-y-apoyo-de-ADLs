@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Quiero",
+    "synonyms": [
+      "Quiero",
+      "quisiera"
+    ]
+  },
+  {
+    "value": "tengo",
+    "synonyms": [
+      "tengo"
+    ]
+  },
+  {
+    "value": "comer",
+    "synonyms": [
+      "comer",
+      "almorzar",
+      "desayunar",
+      "cenar",
+      "picar",
+      "merendar",
+      "hambre"
+    ]
+  },
+  {
+    "value": "tomar",
+    "synonyms": [
+      "tomar",
+      "beber",
+      "sed"
+    ]
+  },
+  {
+    "value": "hacer",
+    "synonyms": [
+      "hacer",
+      "hice"
+    ]
+  },
+  {
+    "value": "servir",
+    "synonyms": [
+      "servir",
+      "sirva"
+    ]
+  },
+  {
+    "value": "preparar",
+    "synonyms": [
+      "preparar"
+    ]
+  },
+  {
+    "value": "coger",
+    "synonyms": [
+      "coger",
+      "agarrar"
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": "b627dd35-491e-4bd0-b830-ff86188b0cf0",
+  "name": "Preparar-cafe paso 7",
+  "auto": true,
+  "contexts": [
+    "prepararcafe7"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "prepararcafe8",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "40df2cd6-2572-4c7d-9195-3af2110b6b37",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Recuerda agregar los ingredientes en olleta, te los recuerdo : café y azúcar. Cuando lo hagas di : ya puse los ingredientes"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "846a2bb9-e882-4f03-a9b8-bdf3819b7d39",
+          "name": "alimentos",
+          "required": true,
+          "dataType": "@Alimentos",
+          "value": "$alimentos",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Recuerda agregar los ingredientes en olleta, te los recuerdo : café y azúcar. Cuando lo hagas di : ya puse los ingredientes"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f519fdab-4ef9-4fea-bcbe-b86c7c5ef276",
+          "name": "verbos",
+          "required": true,
+          "dataType": "@Verbos",
+          "value": "$verbos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Recuerda agregar los ingredientes en olleta, te los recuerdo : café y azúcar. Cuando lo hagas di : ya puse los ingredientes"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Deja reposar el café por 2 minutos."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

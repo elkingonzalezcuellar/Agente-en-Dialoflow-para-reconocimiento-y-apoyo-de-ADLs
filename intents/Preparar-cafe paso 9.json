@@ -1,0 +1,101 @@
+{
+  "id": "9e22a5e1-930b-40c1-9769-08651fe2604b",
+  "name": "Preparar-cafe paso 9",
+  "auto": true,
+  "contexts": [
+    "prepararcafe9"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "felicitaciones",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "183c6a4c-49c6-4313-b923-e0f282a5bc1e",
+          "name": "confirmacion",
+          "required": true,
+          "dataType": "@confirmacion",
+          "value": "$confirmacion",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si ya serviste el café en el pocillo  di : ya serví el café"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "59748f7d-7f78-4643-ba3b-83c918e97e4c",
+          "name": "alimentos",
+          "required": true,
+          "dataType": "@Alimentos",
+          "value": "$alimentos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si ya serviste el café en el pocillo  di : ya serví el café"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9d49a2bd-6cff-4367-94cc-ad63b95c8937",
+          "name": "Verbos",
+          "required": true,
+          "dataType": "@Verbos",
+          "value": "$Verbos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Si ya serviste el café en el pocillo  di : ya serví el café"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Hemos terminado. Ya puedes disfrutar tu café.!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1b0125b5-90eb-4ce6-bb3c-d4a2e347125f",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "hacer",
+        "meta": "@Verbos",
+        "alias": "Verbos",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "café",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1021af88-e4df-4139-b8ba-60f5a4224a0c",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "hacer",
+        "meta": "@Verbos",
+        "alias": "Verbos",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cafe",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c4e58eac-33d9-4ea7-91d8-012243225f6b",
+    "data": [
+      {
+        "text": "tomar",
+        "meta": "@Verbos",
+        "alias": "Verbos",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "café",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f60ad11c-d9e4-4d69-a800-1eeec833712e",
+    "data": [
+      {
+        "text": "preparar",
+        "meta": "@Verbos",
+        "alias": "Verbos",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cafe",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b3850f6b-f237-4818-9edf-c6aec1f21715",
+    "data": [
+      {
+        "text": "café",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "695c9593-4cb1-4a33-a05f-7e162e432232",
+    "data": [
+      {
+        "text": "cafe",
+        "meta": "@Alimentos",
+        "alias": "alimentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
